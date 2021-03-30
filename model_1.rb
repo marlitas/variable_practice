@@ -11,3 +11,7 @@ tax_rate = 5.8
 
 is_open = true
 is_hiring = false
+
+cookie_types = ["chocolate", "peanut", "rainbow", "cheesecake", "red velvet"]
+top_customers = ["Jaime", "Lona", "Ben", "Jared", "Tanya"]
+cookie_prices =[2.5, 1.5, 3.0, 4]
